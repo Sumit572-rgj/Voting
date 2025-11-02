@@ -1,0 +1,30 @@
+body{
+    font-family: cursive;
+    text-align: center;
+    background-image: linear-gradient(red,white,blue);
+
+}
+input{
+    border-radius: 50px;
+    padding: 10px;
+    width: 250px;
+
+}
+button{
+    padding: 5px;
+
+}
+select{
+    padding:10px;
+}
+a{
+    color: white;
+}
+#submit{
+    background-color:green;
+    color: white;
+}
+#Reset{
+    background-color: red;
+    color: white;
+}
