@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(red,white,blue);
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+#backbtn{
+    align-items: last baseline;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 50px;
+}
+#logoutbtn{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 50px;
+    align-self: flex-end;
+}
