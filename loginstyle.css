@@ -1,0 +1,28 @@
+input{
+    border-radius: 20px;
+    padding: 10px;
+    width: 250px;
+}
+body{
+    text-align: center;
+    font-family:cursive;
+background-image: linear-gradient(red,white,blue);
+}
+
+img source{
+    align-items: left;
+}
+button{
+    padding: 5px;
+    background-color:green;
+    color: white;
+}
+select{
+    padding: 10px;
+}
+a{
+    color: white;
+}
+h3{
+    font-size: 30px;
+}
